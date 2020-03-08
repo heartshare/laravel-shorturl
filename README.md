@@ -1,5 +1,5 @@
-# laravelShortUrl
-用laravel实现的一个短链接系统
+# shortUrl
+## 用laravel实现的一个短链接系统
 
 
 1. 在网站根目录的终端执行
