@@ -1,9 +1,9 @@
-# shortUrl
-## 用laravel实现的一个短链接系统
+## Laravel Short URL
 
+用laravel实现的一个短链接系统
 
+## 安装
 1. 在网站根目录的终端执行
-
 `git clone https://github.com/fishtailstudio/shortUrl.git`
 
 2. 创建数据库，并执行/sql/short_url.sql
@@ -31,7 +31,7 @@ root   "D:/phpstudy_pro/WWW/shortUrl/src/public";
 
 4. 访问`http://localhost/`。
 
-
+## 截图
 
 首页：
 
