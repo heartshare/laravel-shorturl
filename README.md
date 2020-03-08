@@ -37,6 +37,7 @@ root   "D:/phpstudy_pro/WWW/shortUrl/src/public";
 
 
 ![首页：](./screenshot/index.png)
+
 生成短链接：
 
 
